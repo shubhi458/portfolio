@@ -17,7 +17,7 @@ export default function Home() {
                         </div>
                     </div>
                     <div className="rightSection">
-                        <img src="ThirdImage.jpg" />
+                        <img src="./ThirdImage.JPG" />
                     </div>
                 </section>
                 <hr />
