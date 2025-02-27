@@ -12,7 +12,7 @@ export default function Home() {
                             <h1>Hi, I'm Shubhi Saxena from India</h1>
                         </div>
                         <div className="buttons">
-                            <a href="ShubhiSaxena.pdf" download className="btn">Download Resume</a>
+                            <a href="ShubhiSaxena-Resume.pdf" download className="btn">Download Resume</a>
                             <a href="https://github.com/shubhi458" className="btn">Visit Github</a>
                         </div>
                     </div>
